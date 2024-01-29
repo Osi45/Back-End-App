@@ -15,7 +15,7 @@ I recently completed a backend application that seamlessly integrates with Mongo
 
 Technologies Used:
 Backend:
-Node.js: JavaScript runtime for server-side development.
+Node.js:  JavaScript runtime for server-side development.
 
 Express.js: Web application framework for Node.js.
 
@@ -33,9 +33,7 @@ Backend Setup:
 MongoDB database connected using Mongoose.
 Express server running on Node.js.
 
-API Routes:
-
-CRUD operations for managing expenses.
+API Routes: CRUD operations for managing expenses.
 Authentication middleware for securing routes.
 
 Authentication:
