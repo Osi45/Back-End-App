@@ -16,10 +16,15 @@ I recently completed a backend application that seamlessly integrates with Mongo
 Technologies Used:
 Backend:
 Node.js: JavaScript runtime for server-side development.
+
 Express.js: Web application framework for Node.js.
+
 MongoDB: NoSQL database for storing expense data.
+
 Mongoose: MongoDB object modeling for Node.js.
+
 JSON Web Token (JWT): Authentication mechanism.
+
 
 Project Workflow:
 
