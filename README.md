@@ -23,6 +23,7 @@ JSON Web Token (JWT): Authentication mechanism.
 
 Project Workflow:
 Backend Setup:
+
 MongoDB database connected using Mongoose.
 Express server running on Node.js.
 API Routes:
