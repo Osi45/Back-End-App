@@ -21,6 +21,22 @@ MongoDB: NoSQL database for storing expense data.
 Mongoose: MongoDB object modeling for Node.js.
 JSON Web Token (JWT): Authentication mechanism.
 
+Project Workflow:
+Backend Setup:
+MongoDB database connected using Mongoose.
+Express server running on Node.js.
+API Routes:
+CRUD operations for managing expenses.
+Authentication middleware for securing routes.
+Authentication:
+JWT used for user authentication.
+Secure and public routes defined.
+Documentation:
+README.md provides instructions for setting up and running the backend.
+Version Control:
+Git repository initialized for version control.
+.gitignore file to exclude unnecessary files.
+
  **GitHub Repository:** [Backend App Repo] (https://github.com/Osi45/Back-End-App)
 
 ### [Project 2]
