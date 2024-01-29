@@ -33,7 +33,9 @@ Backend Setup:
 MongoDB database connected using Mongoose.
 Express server running on Node.js.
 
-API Routes: CRUD operations for managing expenses.
+API Routes: 
+
+CRUD operations for managing expenses.
 Authentication middleware for securing routes.
 
 Authentication:
