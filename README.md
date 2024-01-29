@@ -32,6 +32,7 @@ API Routes:
 
 CRUD operations for managing expenses.
 Authentication middleware for securing routes.
+
 Authentication:
 
 JWT used for user authentication.
