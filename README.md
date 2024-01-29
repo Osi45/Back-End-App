@@ -22,6 +22,7 @@ Mongoose: MongoDB object modeling for Node.js.
 JSON Web Token (JWT): Authentication mechanism.
 
 Project Workflow:
+
 Backend Setup:
 
 MongoDB database connected using Mongoose.
