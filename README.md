@@ -26,6 +26,7 @@ Backend Setup:
 
 MongoDB database connected using Mongoose.
 Express server running on Node.js.
+
 API Routes:
 
 CRUD operations for managing expenses.
