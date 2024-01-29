@@ -13,7 +13,7 @@ I'm Abdul Mumuni Osuman, a passionate DevOps Engineer with experience in DevOps 
 
 I recently completed a backend application that seamlessly integrates with MongoDB, showcasing my skills in server-side development and database management. The project is hosted on GitHub for easy access.
 
- **GitHub Repository:** [Backend App Repo] (https://github.com/Osi45/My_First_Rep)
+ **GitHub Repository:** [Backend App Repo] (https://github.com/Osi45/Back-End-App)
 
 ### [Project 2]
 
