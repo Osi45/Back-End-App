@@ -11,9 +11,48 @@ I'm Abdul Mumuni Osuman, a passionate DevOps Engineer with experience in DevOps 
 
 ### [Project 1]
 
-I recently completed a backend application that seamlessly integrates with MongoDB, showcasing my skills in server-side development and database management. The project is hosted on GitHub for easy access.
+I recently completed a backend application that seamlessly integrates with MongoDB, showcasing my skills in server-side development and database management. This backend is built using Node.js, Express.js, and MongoDB. The backend is responsible for managing expense data, providing APIs for CRUD operations, and handling user authentication. The project is hosted on GitHub for easy access.
 
- **GitHub Repository:** [Backend App Repo] (https://github.com/Osi45/My_First_Rep)
+
+Technologies Used:
+Backend:
+Node.js:  JavaScript runtime for server-side development.
+
+Express.js: Web application framework for Node.js.
+
+MongoDB: NoSQL database for storing expense data.
+
+Mongoose: MongoDB object modeling for Node.js.
+
+JSON Web Token (JWT): Authentication mechanism.
+
+
+Project Workflow:
+
+Backend Setup:
+
+MongoDB database connected using Mongoose.
+Express server running on Node.js.
+
+API Routes: 
+
+CRUD operations for managing expenses.
+Authentication middleware for securing routes.
+
+Authentication:
+
+JWT used for user authentication.
+Secure and public routes defined.
+Documentation:
+
+
+ **GitHub Repository:** [Backend App Repo] (https://github.com/Osi45/Back-End-App)
+
+
+
+
+
+ 
 
 ### [Project 2]
 
