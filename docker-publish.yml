@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build-and-push:
+  build-and-push
     runs-on: ubuntu-latest
 
     steps:
@@ -32,3 +32,5 @@ jobs:
       - name: Simple Task
         run: echo "Hello, this is a simple task!"
 
+      - name: Update serverprojs
+        run: echo "This is a lightweight change" >> serverprojs
