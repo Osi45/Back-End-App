@@ -28,3 +28,7 @@ jobs:
           context: .
           push: true
           tags: osi45/my_app_backend:latest
+
+      - name: Simple Task
+        run: echo "Hello, this is a simple task!"
+
