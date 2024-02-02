@@ -33,4 +33,4 @@ jobs:
         run: echo "Hello, this is a simple task!"
 
       - name: Update serverprojs
-        run: echo "This is a lightweight change" >> serverprojs
+        run: echo "Chelsea Football Club" >> serverprojs
